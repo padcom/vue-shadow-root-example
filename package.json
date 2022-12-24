@@ -1,0 +1,15 @@
+{
+  "name": "shadow-root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm-serve ."
+  },
+  "keywords": [],
+  "author": "Matthias Hryniszak <<padcom@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@padcom/npm-serve": "^2.8.0"
+  }
+}
